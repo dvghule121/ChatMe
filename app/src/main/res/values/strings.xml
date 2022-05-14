@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">chatme</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user" translatable="false">User</string>
+    <string name="home" translatable="false">home</string>
+    <string name="basket" translatable="false">basket</string>
+    <string name="order" translatable="false">orders</string>
+    <string name="shr_hint_username">Email</string>
+    <string name="shr_hint_mobileNo">Mobile No</string>
+    <string name="shr_hint_address">Address</string>
+    <string name="shr_hint_gender">Gender</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="rs">₹</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
