@@ -10,3 +10,8 @@ In this app you can send message to registered app users which will reflect in t
 4. set your profile pic from gallery
 5. search among all the registered users
 6. change profile any time
+
+    
+## Link for APK: 
+<a href="https://github.com/dvghule121/ChatMe/releases/download/chatme/app-debug.apk" > <img src="https://img.shields.io/badge/apk-ChatMe-green" alt="apk"> </a><br><br>
+
